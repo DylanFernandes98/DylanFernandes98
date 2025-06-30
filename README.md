@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Dylan Fernandes
 
-<!--
-**DylanFernandes98/DylanFernandes98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with 3+ years of Python experience and a background in developing automation and testing tools. I’m currently building real-world apps and upskilling in SQL.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: a Python + SQLite **Budget Tracker App**
+- 🎓 Completed: Intermediate Python, Foundational SQL
+- 🧠 Background: BEng (Hons) Electronic Engineering | 2+ years in hardware/software test development
+- 🌱 Learning: Flask · GitHub Actions · Data-driven apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**Programming**: Python (3+ years) · SQL (Basic)
+**Tools**: GitHub · Raspberry Pi · Linux · VS Code · Tkinter · SQLite · Pandas · KiCAD  
+**Concepts**: OOP · GUI Design · Automation · Version Control · Debugging
+
+## 🚀 Projects
+- 🔹 [**Budget Tracker**](https://github.com/DylanFernandes98/budget-tracker) – Track transactions and spending using Python GUI + SQLite  
+
+## 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/fernandes-dylan/)  
+
+---
+
+Thanks for visiting!
+
