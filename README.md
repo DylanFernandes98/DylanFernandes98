@@ -21,4 +21,3 @@ I'm a software developer with 3+ years of Python experience and a background in 
 ---
 
 Thanks for visiting!
-
