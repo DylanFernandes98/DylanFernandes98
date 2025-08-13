@@ -12,7 +12,7 @@ I'm a Python developer with 3+ years of experience building test systems, automa
 **Concepts**: OOP • Version Control • Code Reviews • Automation • GUI Design
 
 ## 🚀 Projects
-- 🔹 [**Budget Tracker**](https://github.com/DylanFernandes98/budget-tracker) – A personal finance tool built with Python, Tkinter, and SQLite. Tracks expenses, displays live category-based charts, and uses basic machine learning (scikit-learn) to predict monthly spending.
+- 🔹 [**Budget Tracker**](https://github.com/DylanFernandes98/budget-tracker) – A Python app with a Tkinter GUI, using Pandas and SQLite for transaction tracking.
 
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/fernandes-dylan/)  
