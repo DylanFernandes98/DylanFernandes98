@@ -2,7 +2,7 @@
 
 I'm a Python developer with 3+ years of experience building test systems, automation tools, and GUIs - both professionally and through independent projects.
 
-- 🔭 Currently working on: Python + SQLite **Budget Tracker App**
+- 🔭 Currently working on: **Budget Tracker App** (Python + SQLite)
 - 🎓 Completed: Intermediate Python course · Foundational SQL course
 - 🧠 Background: BEng (Hons) Electronic Engineering | 2+ years in a professional software development role
 
