@@ -2,13 +2,13 @@
 
 I'm a Python developer with 3+ years of experience building test systems, automation tools, and GUIs - both professionally and through independent projects.
 
-- 🔭 Currently working on: **Python Budget Tracker App** | Tkinter • SQLite • Matplotlib
+- 🔭 Currently working on: **Python Budget Tracker App** | Tkinter • SQLite • Pandas
 - 🎓 Completed: Intermediate Python course • Foundational SQL course
 - 🧠 Background: BEng (Hons) Electronic Engineering | 2+ years in a professional software development role
 
 ## 🛠 Tech Stack
 **Programming**: Python (3+ years) • SQL (Basic)
-**Tools**: GitHub • Linux • Tkinter • SQLite • Pandas • Raspberry Pi
+**Tools**: GitHub • Linux • Tkinter • SQLite • Pandas • Pytest • Raspberry Pi
 **Concepts**: OOP • Version Control • Code Reviews • Automation • GUI Design
 
 ## 🚀 Projects
