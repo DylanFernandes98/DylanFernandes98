@@ -14,7 +14,7 @@ I'm a Python developer with 3+ years of experience building test systems, automa
 
 ## 🚀 Projects
 - 🔹 [**Budget Tracker**](https://github.com/DylanFernandes98/budget-tracker) – A Python app with a Tkinter GUI, using Pandas and SQLite for transaction tracking.
-
+- 🔹 [**Transaction Summary API**](https://github.com/DylanFernandes98/transaction-summary-api) – FastAPI backend for analysing CSV transaction data and returning user-level summaries. 
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/fernandes-dylan/)  
 
