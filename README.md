@@ -10,8 +10,8 @@ I'm a Python developer with 3+ years of experience building test systems, automa
 
 ## 🛠 Tech Stack
 **Programming**: Python (3+ years) • SQL (Basic)
-**Tools**: GitHub • Linux • Tkinter • SQLite • Pandas • Pytest • FastAPI • Raspberry Pi
-**Concepts**: Algorithms & Data Structures • OOP • CI • Version Control • Automation • GUI Design • Code Reviews
+**Tools**: Git/GitHub • GitHub Actions • Linux • Pytest • SQLite • Pandas •  Tkinter • Raspberry Pi • FastAPI
+**Concepts**: Algorithms & Data Structures • OOP • Unit Testing • CI • Modular Design • Automation
 
 ## 🚀 Projects
 - 🔹 [**Budget Tracker**](https://github.com/DylanFernandes98/budget-tracker) – A Python app with a Tkinter GUI, using Pandas and SQLite for transaction tracking.
