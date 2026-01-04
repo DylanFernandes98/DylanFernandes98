@@ -3,14 +3,13 @@
 I'm a Python developer with 3+ years of experience building test systems, automation tools, and GUIs - both professionally and through independent projects.
 
 - 🔭 Recently completed: **Python Budget Tracker App** | Tkinter • SQLite • Pandas
-- ⚙️ Currently working on: **Python Transaction Summary API** | FastAPI • Pandas • Pytest
-- 📚 Currently learning: Data structures & algorithms • SQL fundamentals • Advanced testing practices
+- 📚 Currently learning: Data structures & algorithms • SQL fundamentals
 - 🎓 Completed: Intermediate Python course • Foundational SQL course
 - 🧠 Background: BEng (Hons) Electronic Engineering | 2+ years in a professional software development role
 
 ## 🛠 Tech Stack
 **Programming**: Python (3+ years) • SQL (Basic)
-**Tools**: Git/GitHub • GitHub Actions • Linux • Pytest • SQLite • Pandas •  Tkinter • Raspberry Pi • FastAPI
+**Tools**: Git/GitHub • GitHub Actions • Linux • Pytest • SQLite • Pandas • Tkinter • Raspberry Pi • FastAPI
 **Concepts**: Algorithms & Data Structures • OOP • Unit Testing • CI • Modular Design • Automation
 
 ## 🚀 Projects
