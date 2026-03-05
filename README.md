@@ -8,7 +8,7 @@ I'm a Python developer with 3+ years of experience building test systems, automa
 - 🧠 Background: BEng (Hons) Electronic Engineering | 2+ years in a professional software development role
 
 ## 🛠 Tech Stack
-**Programming**: Python (3+ years) • SQL (Basic)
+**Programming**: Python (3+ years) • SQL
 **Tools**: Git/GitHub • GitHub Actions • Pytest • Pandas • Matplotlib • SQLite • Tkinter • Linux • FastAPI
 **Concepts**: Algorithms & Data Structures • OOP • Unit Testing • CI • Modular Design • Automation
 
