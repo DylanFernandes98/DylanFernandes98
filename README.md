@@ -4,13 +4,13 @@ I'm an Associate Software Engineer at YouView, working with Python on automation
 
 - 🔭 Recently completed: **Budget Tracker App** | Tkinter • SQLite • Pandas • Pytest
 - 🚧 Currently building: **Travel Decision Engine API** | FastAPI • REST APIs
-- 📚 Currently learning: FastAPI • Backend architecture • Test Automation
+- 📚 Currently learning: FastAPI • Backend Architecture • Test Automation
 - 🎓 Background: BEng (Hons) Electronic Engineering
 
 ## 🛠 Tech Stack
 **Programming**: Python • SQL
 **Tools**: Git/GitHub • GitHub Actions • Pytest • Pandas • Matplotlib • SQLite • Tkinter • Linux • FastAPI
-**Concepts**: Algorithms & Data Structures • OOP • Unit Testing • CI • Modular Design • Automation
+**Concepts**: Algorithms & Data Structures • OOP • Unit Testing • CI • Modular Design • Test Automation
 
 ## 🚀 Projects
 - 🔹 [**Budget Tracker**](https://github.com/DylanFernandes98/budget-tracker) – A Python app with a Tkinter GUI, using Pandas and SQLite for transaction tracking.
