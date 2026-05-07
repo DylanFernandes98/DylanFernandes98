@@ -14,7 +14,7 @@ I'm an Associate Software Engineer at YouView, working with Python on automation
 
 ## 🚀 Projects
 - 🔹 [**Budget Tracker**](https://github.com/DylanFernandes98/budget-tracker) – A Python app with a Tkinter GUI, using Pandas and SQLite for transaction tracking.
-- 🔹 [**Transaction Summary API**](https://github.com/DylanFernandes98/transaction-summary-api) – FastAPI backend for analysing CSV transaction data and returning user-level summaries.
+- 🔹 [**Transaction Summary API**](https://github.com/DylanFernandes98/transaction-summary-api) – A FastAPI backend for analysing CSV transaction data and returning user-level summaries.
 - 🔹 [**Travel Decision Engine API (In-progress)**](https://github.com/DylanFernandes98/travel-decision-engine) – A FastAPI backend for modelling and comparing travel plans.
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/fernandes-dylan/)  
