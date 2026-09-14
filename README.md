@@ -3,7 +3,7 @@
 I'm an Associate Software Engineer at YouView, working with Python on automation.
 
 - 🔭 Recently completed: **Budget Tracker App** | Tkinter • SQLite • Pandas • Pytest
-- 🚧 Currently building: **Travel Decision Engine API** | FastAPI • REST APIs
+- 🚧 Currently building: **Travel Decision Engine API** | FastAPI • SQLModel • SQLite
 - 📚 Currently learning: Test Automation • Backend Architecture • FastAPI    
 - 🎓 Background: BEng (Hons) Electronic Engineering
 
