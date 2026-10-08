@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dylan Fernandes
 
-I'm an Associate Software Engineer at YouView, working with Python on automation.
+I'm an Associate Software Engineer at YouView, working on automation with Python.
 
 - 🔭 Recently completed: **Budget Tracker App** | Tkinter • SQLite • Pandas • Pytest
 - 🚧 Currently building: **Travel Decision Engine API** | FastAPI • SQLModel • SQLite
